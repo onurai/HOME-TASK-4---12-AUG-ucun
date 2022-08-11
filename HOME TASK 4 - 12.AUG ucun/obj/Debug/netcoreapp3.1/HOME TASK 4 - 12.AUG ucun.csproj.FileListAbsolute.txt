@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\bin\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.exe
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\bin\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.deps.json
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\bin\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.runtimeconfig.json
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\bin\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\bin\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.dll
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\bin\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.pdb
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.AssemblyInfo.cs
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.dll
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.pdb
+C:\Users\HP\source\repos\HOME TASK 4 - 12.AUG ucun\HOME TASK 4 - 12.AUG ucun\obj\Debug\netcoreapp3.1\HOME TASK 4 - 12.AUG ucun.genruntimeconfig.cache
